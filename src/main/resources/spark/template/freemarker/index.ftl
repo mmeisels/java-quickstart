@@ -14,7 +14,7 @@
       <img src="/lang-logo.png">
     </a>
     <h1>Getting Started with Java on Heroku</h1>
-    <p>... Mikes new fantastic changeThis is a sample Java application deployed to Heroku. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
+    <p>..This is the new view change.. Mikes new fantastic changeThis is a sample Java application deployed to Heroku. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
 
     <h3>The Next change Hello over here fantastic new change wants to make and greatest feature!!</h3>
     
