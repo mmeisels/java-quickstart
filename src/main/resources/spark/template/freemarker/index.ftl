@@ -13,7 +13,7 @@
     <a href="/" class="lang-logo">
       <img src="/lang-logo.png">
     </a>
-    <h1>This is Mike's Auckland Change</h1>
+    <h1>This is Mike's BDR Change</h1>
     <p>..This is the new view change.. Mikes new fantastic changeThis is a sample Java application deployed to Heroku. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
 
     <h3>The Next change Hello over here fantastic new change wants to make and greatest feature!!</h3>
