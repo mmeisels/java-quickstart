@@ -15,7 +15,7 @@ public class TestUtility {
 	@BeforeClass
 	public void setup() {
 		num1 = 2;
-		num2 = 3;
+		num2 = 8;
 	}
 	
 	@Test
